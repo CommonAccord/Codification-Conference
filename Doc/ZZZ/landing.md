@@ -1,6 +1,6 @@
 DemoDocName=A/Conf/01-Stakeholders_v01.md
 
-Site-Name=Site-COMPLETE
+Site-Name=Codification-Conference
 
 Name.CommonAccord.Org=Codification.CommonAccord.Org
 
