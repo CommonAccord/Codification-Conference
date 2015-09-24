@@ -1,9 +1,8 @@
-
-DemoDocName=COMPLETE THIS FIELD
+DemoDocName=A/Conf/01-Stakeholders_v01.md
 
 Site-Name=Site-COMPLETE
 
-Name.CommonAccord.Org=Startup.CommonAccord.Org
+Name.CommonAccord.Org=Codification.CommonAccord.Org
 
 Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p>{Table.sec}
 
@@ -13,8 +12,8 @@ Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{Twitt
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for COMPLETE!!.
+Introduction.sec=This website is for discussion of a conference on codification.
 
-FormDoc.sec=When you click on the first link below, you will see COMPLETE!!.</a>.  It is, of course, only an example, intended to be adapted and extended. 
+FormDoc.sec=When you click on the first link below, you will see a conference agenda.</a>.  It is, of course, only an example, intended to be adapted and extended. 
 
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
