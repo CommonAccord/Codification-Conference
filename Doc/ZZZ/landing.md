@@ -12,7 +12,7 @@ Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{Twitt
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for discussion of a conference on codification.
+Introduction.sec=This website is for discussion of a conference on codification.  It has already been forked, followed, led, or merely flattered at <a href="https://github.com/DecentLaw/Codification_Conference">https://github.com/DecentLaw/Codification_Conference</a>
 
 FormDoc.sec=When you click on the first link below, you will see a conference agenda.</a>.  It is, of course, only an example, intended to be adapted and extended. 
 
